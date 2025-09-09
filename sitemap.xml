@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                           http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Página Principal -->
+  <url>
+    <loc>https://lumoraestetica.com/</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lumoraestetica.com/media/lumora-png.png</image:loc>
+      <image:title>Lumora Centro de Estética - Logo</image:title>
+      <image:caption>Logo de Lumora, centro profesional de tratamientos faciales y cuidado de la piel</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lumoraestetica.com/media/width_500.webp</image:loc>
+      <image:title>Lumora Centro de Estética - Logotipo Hero</image:title>
+      <image:caption>Logotipo principal de Lumora en la sección hero</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Sección Información -->
+  <url>
+    <loc>https://lumoraestetica.com/#info</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección Tratamientos -->
+  <url>
+    <loc>https://lumoraestetica.com/#trat</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sección Productos -->
+  <url>
+    <loc>https://lumoraestetica.com/#prod</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sección Contacto -->
+  <url>
+    <loc>https://lumoraestetica.com/#contacto</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- URLs específicas de tratamientos para SEO -->
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/hydroboost-facial</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/glass-skin</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/deep-detox</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/sensitive-skin</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/collagen-therapy</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/define-purify</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lumoraestetica.com/tratamientos/radiant-peel</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,49 @@
+# Robots.txt para Lumora Centro de Estética
+# Tratamientos Faciales Profesionales - Buenos Aires, Argentina
+
+# Permitir acceso a todos los bots
+User-agent: *
+Allow: /
+
+# Permitir específicamente a Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Permitir a Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Permitir acceso a recursos estáticos importantes
+Allow: /media/
+Allow: *.css
+Allow: *.js
+Allow: *.png
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.webp
+Allow: *.gif
+Allow: *.svg
+Allow: *.ico
+
+# Disallowear archivos de sistema y temporales
+Disallow: /*.tmp$
+Disallow: /*.bak$
+Disallow: /temp/
+Disallow: /cache/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /*.log$
+Disallow: /admin/
+Disallow: /private/
+Disallow: /error/
+
+# Sitemaps
+Sitemap: https://lumoraestetica.com/sitemap.xml
+
+# Host preferido
+Host: lumoraestetica.com
+
+# Crawl delay general
+Crawl-delay: 1

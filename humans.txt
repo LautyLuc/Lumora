@@ -1,0 +1,41 @@
+/* TEAM */
+    Web Designer & Developer: junostudio.art
+    Site: lumoraestetica.com
+    Location: Buenos Aires, Argentina
+
+/* SITE */
+    Last update: 2025/08/13
+    Language: Spanish / Español
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Components: HTML5, CSS3, JavaScript ES6, PHP
+
+/* BUSINESS */
+    Business: Lumora Centro de Estética
+    Type: Centro de Estética y Tratamientos Faciales Profesionales
+    Location: Buenos Aires, Argentina
+    Services: HydroBoost Facial, Glass Skin, Deep Detox, Sensitive Skin, Collagen Therapy, Oil Control, Radiant Peel
+    Specialization: Tratamientos faciales profesionales, Cuidado integral de la piel, Cosmiatría avanzada
+    Target: Tratamientos faciales personalizados y estética profesional, belleza y bienestar
+
+/* THANKS */
+    Fonts: Google Fonts (Poppins, Inter)
+    Icons: Custom iconography
+    Images: Professional beauty and skincare photography
+    Framework: Custom responsive design
+    Inspiration: Modern aesthetics and clean design principles
+
+/* CONTACT */
+    Email: info@lumora.com.ar
+    Phone: +54-11-1234-5678
+    Social: @lumora_estetica
+    Website: https://lumoraestetica.com
+    
+/* TECHNICAL */
+    Standards: W3C HTML5, CSS3, ECMAScript 6
+    Accessibility: WCAG 2.1 guidelines, ARIA attributes, semantic HTML
+    Performance: Optimized images, minified CSS/JS, GZIP compression
+    SEO: Schema.org structured data, OpenGraph meta tags, comprehensive keywords
+    Responsive: Mobile-first design approach, breakpoints optimization
+    Browser Support: Chrome, Firefox, Safari, Edge (latest versions)
+    Security: XSS protection, content type validation, frame options
